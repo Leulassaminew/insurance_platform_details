@@ -52,7 +52,7 @@ cpu or gpu would be better
 1. Go to your terminal
 2. Clone the repo  
    ```sh
-   git clone https://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@github.com/Leulassaminew/insurance_plat.git
+   git clone https://insurance_plat.git
    ```
 3. change to the cloned directory
    ```sh
